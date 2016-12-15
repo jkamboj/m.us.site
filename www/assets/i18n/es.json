@@ -1,0 +1,30 @@
+{
+  "APPWALK": {
+    "REGISTER": "Registro",
+    "LOGIN": "Iniciar sesión"
+  },
+  "LOGIN": {
+    "Title": "Logines"
+  },
+  "HOME": {
+    "TITLE": "Hola Angular 2 con ng2-translate!",
+    "SELECT": "Cambiar idioma"
+  },
+  "ABOUT": {
+    "TITLE": "Acerca de"
+  },
+  "CONTACT": {
+    "TITLE": "Contacto",
+    "TWITTER_MESSAGE": "Síguenos en Twitter"
+  },
+  "TABS": {
+    "HOME": "Home",
+    "ABOUT": "Acerca de",
+    "CONTACT": "Contacto"
+  },
+  "RECENT_CLAIM_DETAIL": {
+    "ADDITIONAL_INFO_MSG1": "{{amount}} Fue aplicado a su deducible. Usted pagó su deducible con este servicio.",
+    "ADDITIONAL_INFO_MSG2": "{{amount}} Fue aplicado a su deducible.",
+    "ADDITIONAL_INFO_MSG3": "Su deducible ya se ha cumplido."
+  }
+}

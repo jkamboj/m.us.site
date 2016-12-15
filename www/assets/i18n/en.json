@@ -1,0 +1,32 @@
+{
+  "APPWALK": {
+    "REGISTER": "Register",
+    "LOGIN": "Login"
+  },
+  "LOGIN": {
+    "Title": "Login"
+  },
+  "HOME": {
+    "TITLE": "Hello Angular 2 with ng2-translate!",
+    "SELECT": "Change language"
+  },
+  "ABOUT": {
+    "TITLE": "About"
+  },
+  "CONTACT": {
+    "TITLE": "Contact",
+    "TWITTER_MESSAGE": "Follow us on Twitter"
+  },
+  "TABS": {
+    "HOME": "Home",
+    "ABOUT": "About",
+    "CONTACT": "Contact"
+  },
+  "RECENT_CLAIM_DETAIL": {
+    "ADDITIONAL_INFO_MSG1": "{{amount}} was applied to your deductible. You paid your deductible with this service.",
+    "ADDITIONAL_INFO_MSG2": "{{amount}} was applied to your deductible.",
+    "ADDITIONAL_INFO_MSG3": "Your deductible has already been met.",
+    "ACCUMULATOR_FETCH_ERROR_MSG":"<b>Hmmm...</b><br/>We seem to be having trouble connecting to your plan status right now. This represents the most recent data we have. We’re on it, so try back soon!",
+    "ACCUMULATOR_STAY_TUNED_MSG":"We are having some trouble connecting to your plan status. We are working on it, so please check back later."
+  }
+}
